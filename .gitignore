@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+logs.txt
+docs/design-decisions.md
+.DS_Store
+.env
